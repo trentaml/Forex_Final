@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Forex</string>
+    <string name="currency_US">US Dollar (US$)</string>
+    <string name="currency_UK">UK Pound (£)</string>
+    <string name="currency_Euro">Euro (€)</string>
+    <string name="currency_Yen">Japanese Yen (¥)</string>
+    <string name="currency_CA">Canadian Dollar (CA$)</string>
+    <string name="currency_AU">Australian Dollar (AU$)</string>
+    <string name="currency_NZ">New Zealand Kiwi (NZ$)</string>
+    <string name="currency_SWF">Swiss Franc (ƒ)</string>
+</resources>
